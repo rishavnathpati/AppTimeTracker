@@ -1,0 +1,16 @@
+H:\Productivity Tracking\AppTimeTracker\bin\Debug\net8.0-windows\AppTimeTracker.exe
+H:\Productivity Tracking\AppTimeTracker\bin\Debug\net8.0-windows\AppTimeTracker.deps.json
+H:\Productivity Tracking\AppTimeTracker\bin\Debug\net8.0-windows\AppTimeTracker.runtimeconfig.json
+H:\Productivity Tracking\AppTimeTracker\bin\Debug\net8.0-windows\AppTimeTracker.dll
+H:\Productivity Tracking\AppTimeTracker\bin\Debug\net8.0-windows\AppTimeTracker.pdb
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.Form1.resources
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.csproj.GenerateResource.cache
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.GeneratedMSBuildEditorConfig.editorconfig
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.AssemblyInfoInputs.cache
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.AssemblyInfo.cs
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.csproj.CoreCompileInputs.cache
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.dll
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\refint\AppTimeTracker.dll
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.pdb
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\AppTimeTracker.genruntimeconfig.cache
+H:\Productivity Tracking\AppTimeTracker\obj\Debug\net8.0-windows\ref\AppTimeTracker.dll
