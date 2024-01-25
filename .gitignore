@@ -111,3 +111,4 @@ _TeamCity*
 *.aar
 *.gradle
 *.gradle.kts
+obj/Debug/net8.0-windows/AppTimeTracker.AssemblyInfoInputs.cache
