@@ -1,3 +1,9 @@
+/// <summary>
+/// MainForm is the main form and entry point for the application.
+/// It handles initializing the UI components, setting up the timer,
+/// tracking active application changes, calculating time spent per app,
+/// and updating the UI.
+/// </summary>
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;

@@ -1,3 +1,6 @@
+/// <summary>
+/// ApplicationListView handles updating a ListView with application data.
+/// </summary>
 public class ApplicationListView
 {
     private ListView _listView;
