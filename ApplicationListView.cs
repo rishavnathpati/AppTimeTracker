@@ -5,11 +5,18 @@ public class ApplicationListView
 {
     private ListView _listView;
 
+    /// <summary>
+    /// Represents a view for displaying applications in a ListView control.
+    /// </summary>
     public ApplicationListView(ListView listView)
     {
         _listView = listView;
     }
 
+    /// <summary>
+    /// Updates the application list view with the provided list of application data.
+    /// </summary>
+    /// <param name="apps">The list of application data to update the view with.</param>
     public void Update(List<ApplicationData> apps)
     {
         _listView.BeginUpdate();

@@ -4,10 +4,6 @@
 /// tracking active application changes, calculating time spent per app,
 /// and updating the UI.
 /// </summary>
-using System;
-using System.Collections.Generic;
-using System.Windows.Forms;
-
 namespace AppTimeTracker
 {
     public partial class MainForm : Form
@@ -22,6 +18,9 @@ namespace AppTimeTracker
         private ToolStripStatusLabel _statusLabel;
         private ListView _listView; // ListView as a field
 
+        /// <summary>
+        /// Initializes a new instance of the MainForm class.
+        /// </summary>
         public MainForm()
         {
             InitializeComponent();
@@ -32,6 +31,9 @@ namespace AppTimeTracker
             _lastSwitchTime = DateTime.Now;
         }
 
+        /// <summary>
+        /// Initializes the custom components of the form.
+        /// </summary>
         private void InitializeCustomComponents()
         {
             // ListView Setup
@@ -62,6 +64,9 @@ namespace AppTimeTracker
             Controls.Add(refreshButton);
         }
 
+        /// <summary>
+        /// Sets up the timer for the application.
+        /// </summary>
         private void SetUpTimer()
         {
             _timer = new System.Windows.Forms.Timer { Interval = 1000 };
